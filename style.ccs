@@ -1,1 +1,4 @@
 h1 { font-family: ArialNarrow; }
+h2 { font-family: ArialNarrow; }
+li { font-family: ArialNarrow; }
+p { font-family: ArialNarrow; }
